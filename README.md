@@ -1,12 +1,6 @@
 # 🛒 SmartShop — AI-Powered Product Search
 
-A production-grade Rails 8 e-commerce search engine that understands natural language using RAG (Retrieval-Augmented Generation). Search in plain English and get intelligent, context-aware results.
-
----
-
-## 🌟 Live Demo
-
-> Search *"gift for 5 year old under ₹2000"* and it actually understands what you mean — not just keyword matching.
+A Rails 8 e-commerce search engine that understands natural language using RAG (Retrieval-Augmented Generation). Search in plain English and get intelligent, context-aware results.
 
 ---
 
@@ -58,14 +52,10 @@ User Query (natural language)
 | Embeddings | Ollama (nomic-embed-text) | Text → vector conversion |
 | LLM | Groq API — Llama 3.3 70B | Query understanding + re-ranking |
 | Frontend | Hotwire (Turbo + Stimulus) | Live search, SPA-like UX |
-| Auth (planned) | Devise | User authentication |
-| Background Jobs | Solid Queue | Async job processing |
-| Caching | Solid Cache | Response caching |
-| WebSockets | Solid Cable | Real-time features |
 
 ---
 
-## ✨ Features
+## ✨ Implemented Features
 
 ### 🔍 AI-Powered Search
 - **Natural language search** — search like you talk: *"running shoes for men under ₹5000"*
@@ -84,10 +74,10 @@ User Query (natural language)
 - **Search history** — recent searches saved in session with one-click repeat
 - **Clear history** — remove search history with one click
 
-### ⚡ Live Search (Development)
+### ⚡ Live Search
 - **Hotwire Stimulus** — results update as you type (400ms debounce)
 - **Turbo Streams** — partial page updates without full reload
-- **Environment-aware** — live search enabled in development, disabled in production to respect API limits
+- **Environment-aware** — live search enabled in development, disabled in production
 
 ### 🎨 UI/UX
 - **Responsive design** — works on desktop and mobile
@@ -233,25 +223,9 @@ Visit `http://localhost:3000` 🎉
 
 ---
 
-## 🗺️ Roadmap
+## 📊 Product Data
 
-### Planned Features
-- [ ] User authentication (Devise)
-- [ ] Wishlist / saved products
-- [ ] Product ratings & reviews
-- [ ] Admin dashboard (product management)
-- [ ] REST API endpoints
-- [ ] RSpec test suite
-- [ ] Price drop alerts (Solid Queue)
-- [ ] Real-time chat support (Solid Cable)
-- [ ] Product image support (Active Storage)
-- [ ] Personalised recommendations
-
----
-
-## 📊 Data
-
-- **293 products** across 8 categories
+- **~300 products** across 8 categories
 - Generated using Groq API (Llama 3.3 70B)
 - Each product has a 768-dimension embedding vector
 - Categories: Electronics, Footwear, Toys & Games, Books, Home & Kitchen, Sports & Fitness, Fashion, Beauty & Health
