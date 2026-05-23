@@ -1,0 +1,55 @@
+<% if results %>
+  <% if results[:detected_budget].present? %>
+    <div class="budget-banner">
+      💰 <strong>Budget detected:</strong>
+      ₹<%= number_with_delimiter(results[:detected_budget]) %> —
+      showing best matches within your budget first
+    </div>
+  <% end %>
+
+  <div class="understanding">
+    🧠 <strong>AI understood:</strong> <%= results[:query_understanding] %>
+  </div>
+
+  <% products = results[:products] %>
+  <% products = products.select { |p| p[:category] == params[:category] } if params[:category].present? %>
+
+  <% if products.any? %>
+    <% products.each do |product| %>
+      <div class="product-card">
+        <div class="product-info">
+          <div class="product-name"><%= product[:name] %></div>
+          <span class="product-category">📦 <%= product[:category] %></span>
+          <% if product[:relevance_reason].present? %>
+            <div class="relevance">💡 <%= product[:relevance_reason] %></div>
+          <% end %>
+          <% if product[:price_note].present? %>
+            <div class="price-note <%= 'over' if product[:price_note].to_s.include?('over') %>">
+              💰 <%= product[:price_note] %>
+            </div>
+          <% end %>
+        </div>
+        <div class="product-price-block">
+          <div class="product-price">₹<%= number_with_delimiter(product[:price]) %></div>
+        </div>
+      </div>
+    <% end %>
+
+    <div class="followup-section">
+      <p>🗣️ <strong>Refine your search:</strong> Ask a follow-up question</p>
+      <%= form_with url: search_path, method: :get, local: true do |f| %>
+        <div class="followup-box">
+          <%= f.hidden_field :last_query, value: query %>
+          <%= f.text_field :follow_up, placeholder: "e.g. show me cheaper ones..." %>
+          <%= f.submit "Refine" %>
+        </div>
+      <% end %>
+    </div>
+
+  <% else %>
+    <div class="empty">
+      <div class="icon">🔍</div>
+      <p>No products found. Try a different search.</p>
+    </div>
+  <% end %>
+<% end %>

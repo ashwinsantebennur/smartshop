@@ -1,0 +1,1868 @@
+[
+  {
+    "name": "Redmi 9A",
+    "description": "6.52 inch HD display smartphone with 5000mAh battery",
+    "category": "Electronics",
+    "price": 7999.0
+  },
+  {
+    "name": "Boat Rockerz 255",
+    "description": "Wireless Bluetooth earphones with 10 hours playback time",
+    "category": "Electronics",
+    "price": 1499.0
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "description": "15.6 inch laptop with Intel Core i3 processor and 8GB RAM",
+    "category": "Electronics",
+    "price": 42999.0
+  },
+  {
+    "name": "Samsung Galaxy Watch",
+    "description": "42mm smartwatch with heart rate monitoring and GPS",
+    "category": "Electronics",
+    "price": 19999.0
+  },
+  {
+    "name": "JBL Flip 3",
+    "description": "Portable waterproof Bluetooth speaker with 10 hours battery life",
+    "category": "Electronics",
+    "price": 6999.0
+  },
+  {
+    "name": "Xiaomi Mi Band 4",
+    "description": "Fitness tracker with color display and heart rate monitoring",
+    "category": "Electronics",
+    "price": 2299.0
+  },
+  {
+    "name": "HP Pavilion Gaming Mouse",
+    "description": "Optical gaming mouse with 1600 dpi resolution",
+    "category": "Electronics",
+    "price": 999.0
+  },
+  {
+    "name": "Realme Buds Air 2",
+    "description": "Wireless earbuds with 25 hours total playback time",
+    "category": "Electronics",
+    "price": 2499.0
+  },
+  {
+    "name": "Asus Zenfone 7",
+    "description": "6.67 inch smartphone with 5000mAh battery and triple cameras",
+    "category": "Electronics",
+    "price": 24999.0
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "description": "Noise cancelling wireless headphones with 30 hours battery life",
+    "category": "Electronics",
+    "price": 29999.0
+  },
+  {
+    "name": "TCL 43S325",
+    "description": "43 inch 4K smart LED TV with HDR support",
+    "category": "Electronics",
+    "price": 29999.0
+  },
+  {
+    "name": "Canon EOS 1500D",
+    "description": "24.1MP DSLR camera with EF-S 18-55mm lens",
+    "category": "Electronics",
+    "price": 44999.0
+  },
+  {
+    "name": "OnePlus Power Bank",
+    "description": "10000mAh power bank with 18W fast charging",
+    "category": "Electronics",
+    "price": 1999.0
+  },
+  {
+    "name": "Sennheiser HD 4.50",
+    "description": "Wireless noise cancelling headphones with 22 hours battery life",
+    "category": "Electronics",
+    "price": 14999.0
+  },
+  {
+    "name": "Lenovo Tab M10",
+    "description": "10.1 inch Android tablet with 5000mAh battery",
+    "category": "Electronics",
+    "price": 12999.0
+  },
+  {
+    "name": "Bose Home Speaker 500",
+    "description": "Wireless smart speaker with Alexa and Google Assistant",
+    "category": "Electronics",
+    "price": 39999.0
+  },
+  {
+    "name": "Vivo Y20",
+    "description": "6.51 inch smartphone with 5000mAh battery and triple cameras",
+    "category": "Electronics",
+    "price": 12999.0
+  },
+  {
+    "name": "Philips Gaming Monitor",
+    "description": "24.5 inch full HD monitor with 144Hz refresh rate",
+    "category": "Electronics",
+    "price": 19999.0
+  },
+  {
+    "name": "Oppo Enco W51",
+    "description": "Wireless earbuds with 24 hours total playback time",
+    "category": "Electronics",
+    "price": 2999.0
+  },
+  {
+    "name": "Microsoft Xbox One Controller",
+    "description": "Wireless gaming controller with 40 hour battery life",
+    "category": "Electronics",
+    "price": 4999.0
+  },
+  {
+    "name": "Google Nest Mini",
+    "description": "Smart speaker with Google Assistant and Wi-Fi connectivity",
+    "category": "Electronics",
+    "price": 3999.0
+  },
+  {
+    "name": "Nokia 5.4",
+    "description": "6.26 inch smartphone with 4000mAh battery and quad cameras",
+    "category": "Electronics",
+    "price": 13999.0
+  },
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "description": "3.6GHz 6 core processor with 32MB cache",
+    "category": "Electronics",
+    "price": 29999.0
+  },
+  {
+    "name": "Poco X3",
+    "description": "6.67 inch smartphone with 6000mAh battery and quad cameras",
+    "category": "Electronics",
+    "price": 17999.0
+  },
+  {
+    "name": "Logitech C920",
+    "description": "1080p HD webcam with wide angle lens",
+    "category": "Electronics",
+    "price": 4999.0
+  },
+  {
+    "name": "Samsung Galaxy Tab S7",
+    "description": "11 inch Android tablet with 8000mAh battery",
+    "category": "Electronics",
+    "price": 59999.0
+  },
+  {
+    "name": "JBL Tune 750",
+    "description": "Wireless over ear headphones with 15 hours battery life",
+    "category": "Electronics",
+    "price": 6999.0
+  },
+  {
+    "name": "Asus ROG Phone 3",
+    "description": "6.55 inch gaming smartphone with 6000mAh battery",
+    "category": "Electronics",
+    "price": 49999.0
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "description": "Wireless earbuds with active noise cancellation",
+    "category": "Electronics",
+    "price": 24999.0
+  },
+  {
+    "name": "Xiaomi Mi TV 4A",
+    "description": "40 inch smart LED TV with HDR support",
+    "category": "Electronics",
+    "price": 22999.0
+  },
+  {
+    "name": "Realme Watch S",
+    "description": "Smartwatch with heart rate monitoring and GPS",
+    "category": "Electronics",
+    "price": 4999.0
+  },
+  {
+    "name": "GTX 1660 Super",
+    "description": "NVIDIA graphics card with 6GB GDDR6 memory",
+    "category": "Electronics",
+    "price": 24999.0
+  },
+  {
+    "name": "Huawei FreeBuds 3",
+    "description": "Wireless earbuds with 20 hours total playback time",
+    "category": "Electronics",
+    "price": 9999.0
+  },
+  {
+    "name": "Motorola One Action",
+    "description": "6.3 inch smartphone with 3500mAh battery and triple cameras",
+    "category": "Electronics",
+    "price": 10999.0
+  },
+  {
+    "name": "BenQ GL2580H",
+    "description": "24.5 inch full HD monitor with 1ms response time",
+    "category": "Electronics",
+    "price": 13999.0
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "description": "Smartwatch with heart rate monitoring and GPS",
+    "category": "Electronics",
+    "price": 19999.0
+  },
+  {
+    "name": "Intel Core i5 11600K",
+    "description": "3.7GHz 6 core processor with 12.75MB cache",
+    "category": "Electronics",
+    "price": 32999.0
+  },
+  {
+    "name": "OnePlus 8 Pro",
+    "description": "6.78 inch smartphone with 4500mAh battery and quad cameras",
+    "category": "Electronics",
+    "price": 59999.0
+  },
+  {
+    "name": "Nike Air Max 270",
+    "description": "Men's running shoes with air unit",
+    "category": "Footwear",
+    "price": 10999.0
+  },
+  {
+    "name": "Puma Suede Classic",
+    "description": "Low-top sneakers for casual wear",
+    "category": "Footwear",
+    "price": 4999.0
+  },
+  {
+    "name": "Red Tape Brogue Shoes",
+    "description": "Formal shoes with perforated details",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Adidas Superstar",
+    "description": "Classic low-top basketball shoes",
+    "category": "Footwear",
+    "price": 6999.0
+  },
+  {
+    "name": "Vans Old Skool",
+    "description": "Canvas sneakers for skateboarding",
+    "category": "Footwear",
+    "price": 3999.0
+  },
+  {
+    "name": "Fila Disruptor",
+    "description": "Fashionable sneakers for women",
+    "category": "Footwear",
+    "price": 2499.0
+  },
+  {
+    "name": "Skechers Relaxed Fit",
+    "description": "Comfortable walking shoes for men",
+    "category": "Footwear",
+    "price": 3499.0
+  },
+  {
+    "name": "Converse Chuck Taylor",
+    "description": "Classic low-top casual shoes",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Bata Power Walking Shoes",
+    "description": "Supportive shoes for walking",
+    "category": "Footwear",
+    "price": 1999.0
+  },
+  {
+    "name": "Reebok Classic Leather",
+    "description": "Low-top sneakers for fitness",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Woodland Trekker Shoes",
+    "description": "Waterproof hiking shoes for men",
+    "category": "Footwear",
+    "price": 6999.0
+  },
+  {
+    "name": "Clarks Wave Shoes",
+    "description": "Comfortable loafers for men",
+    "category": "Footwear",
+    "price": 4999.0
+  },
+  {
+    "name": "Lee Cooper Boots",
+    "description": "Ankle boots for casual wear",
+    "category": "Footwear",
+    "price": 3999.0
+  },
+  {
+    "name": "New Balance 574",
+    "description": "Classic running shoes for men",
+    "category": "Footwear",
+    "price": 6999.0
+  },
+  {
+    "name": "Metro Shoes",
+    "description": "Formal shoes for men and women",
+    "category": "Footwear",
+    "price": 1999.0
+  },
+  {
+    "name": "Lotto Spider Shoes",
+    "description": "High-top shoes for basketball",
+    "category": "Footwear",
+    "price": 4999.0
+  },
+  {
+    "name": "Action Shoes",
+    "description": "Casual shoes for men and women",
+    "category": "Footwear",
+    "price": 1499.0
+  },
+  {
+    "name": "Adidas Neo",
+    "description": "Fashionable sneakers for men",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Crocs Clog Shoes",
+    "description": "Comfortable casual shoes",
+    "category": "Footwear",
+    "price": 999.0
+  },
+  {
+    "name": "Steve Madden Shoes",
+    "description": "Fashionable boots for women",
+    "category": "Footwear",
+    "price": 5999.0
+  },
+  {
+    "name": "Tommy Hilfiger Shoes",
+    "description": "Classic loafers for men",
+    "category": "Footwear",
+    "price": 6999.0
+  },
+  {
+    "name": "Aldo Shoes",
+    "description": "Formal shoes for men and women",
+    "category": "Footwear",
+    "price": 4999.0
+  },
+  {
+    "name": "Hush Puppies Shoes",
+    "description": "Comfortable casual shoes",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "United Colors of Benetton Shoes",
+    "description": "Fashionable shoes for men",
+    "category": "Footwear",
+    "price": 3999.0
+  },
+  {
+    "name": "Liberty Shoes",
+    "description": "Formal shoes for men and women",
+    "category": "Footwear",
+    "price": 1999.0
+  },
+  {
+    "name": "Red Chief Shoes",
+    "description": "High-quality leather shoes",
+    "category": "Footwear",
+    "price": 4999.0
+  },
+  {
+    "name": "Mochi Shoes",
+    "description": "Fashionable shoes for women",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Khadim's Shoes",
+    "description": "Affordable casual shoes",
+    "category": "Footwear",
+    "price": 999.0
+  },
+  {
+    "name": "Lakhani Shoes",
+    "description": "Formal shoes for men",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Bata Sandals",
+    "description": "Comfortable sandals for men",
+    "category": "Footwear",
+    "price": 999.0
+  },
+  {
+    "name": "Fausto Shoes",
+    "description": "Fashionable shoes for men",
+    "category": "Footwear",
+    "price": 3999.0
+  },
+  {
+    "name": "Footin Shoes",
+    "description": "Comfortable casual shoes",
+    "category": "Footwear",
+    "price": 1999.0
+  },
+  {
+    "name": "Get Glamr Shoes",
+    "description": "Fashionable shoes for women",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Joker & Witch Shoes",
+    "description": "Quirky shoes for men and women",
+    "category": "Footwear",
+    "price": 2499.0
+  },
+  {
+    "name": "Paragon Shoes",
+    "description": "Comfortable casual shoes",
+    "category": "Footwear",
+    "price": 1499.0
+  },
+  {
+    "name": "Relaxo Shoes",
+    "description": "Affordable casual shoes",
+    "category": "Footwear",
+    "price": 999.0
+  },
+  {
+    "name": "Walkmate Shoes",
+    "description": "Supportive shoes for walking",
+    "category": "Footwear",
+    "price": 2999.0
+  },
+  {
+    "name": "Funskool Teddy Bear",
+    "description": "Cuddly soft plush teddy bear for kids",
+    "category": "Toys & Games",
+    "price": 499.0
+  },
+  {
+    "name": "Lego City Police Car",
+    "description": "Buildable police car with flashing lights",
+    "category": "Toys & Games",
+    "price": 2499.0
+  },
+  {
+    "name": "Barbie Fashion Doll",
+    "description": "Stylish fashion doll with accessories",
+    "category": "Toys & Games",
+    "price": 999.0
+  },
+  {
+    "name": "Hot Wheels Track Builder",
+    "description": "Flexible track system for car racing",
+    "category": "Toys & Games",
+    "price": 1999.0
+  },
+  {
+    "name": "Chhota Bheem Action Figure",
+    "description": "Collectible action figure of Chhota Bheem",
+    "category": "Toys & Games",
+    "price": 299.0
+  },
+  {
+    "name": "Monopoly Classic Board Game",
+    "description": "Family-friendly board game for all ages",
+    "category": "Toys & Games",
+    "price": 699.0
+  },
+  {
+    "name": "Nerf Blaster Gun",
+    "description": "Soft foam dart blaster for kids",
+    "category": "Toys & Games",
+    "price": 1499.0
+  },
+  {
+    "name": "Pictionary Board Game",
+    "description": "Classic drawing board game for families",
+    "category": "Toys & Games",
+    "price": 999.0
+  },
+  {
+    "name": "Fisher-Price Baby Gym",
+    "description": "Interactive play gym for infants",
+    "category": "Toys & Games",
+    "price": 1999.0
+  },
+  {
+    "name": "Marvel Avengers Action Figure",
+    "description": "Collectible action figure of Marvel Avengers",
+    "category": "Toys & Games",
+    "price": 499.0
+  },
+  {
+    "name": "Disney Princess Doll",
+    "description": "Beautiful doll with princess accessories",
+    "category": "Toys & Games",
+    "price": 799.0
+  },
+  {
+    "name": "UNO Card Game",
+    "description": "Classic card game for all ages",
+    "category": "Toys & Games",
+    "price": 199.0
+  },
+  {
+    "name": "Havells Remote Control Car",
+    "description": "High-speed remote control car for kids",
+    "category": "Toys & Games",
+    "price": 2999.0
+  },
+  {
+    "name": "Play-Doh Modeling Dough",
+    "description": "Creative modeling dough for kids",
+    "category": "Toys & Games",
+    "price": 499.0
+  },
+  {
+    "name": "Mega Bloks Building Blocks",
+    "description": "Colorful building blocks for kids",
+    "category": "Toys & Games",
+    "price": 999.0
+  },
+  {
+    "name": "Lego Star Wars Millennium Falcon",
+    "description": "Buildable Millennium Falcon model",
+    "category": "Toys & Games",
+    "price": 4999.0
+  },
+  {
+    "name": "Vtech Learning Tablet",
+    "description": "Interactive learning tablet for kids",
+    "category": "Toys & Games",
+    "price": 3999.0
+  },
+  {
+    "name": "Barbie Dreamhouse",
+    "description": "Large dollhouse with accessories",
+    "category": "Toys & Games",
+    "price": 6999.0
+  },
+  {
+    "name": " Nerf Laser Tag",
+    "description": "High-tech laser tag game for kids",
+    "category": "Toys & Games",
+    "price": 3499.0
+  },
+  {
+    "name": "Lego Friends Amusement Park",
+    "description": "Buildable amusement park model",
+    "category": "Toys & Games",
+    "price": 4999.0
+  },
+  {
+    "name": "Hot Wheels Super Loop",
+    "description": "Giant loop track for car racing",
+    "category": "Toys & Games",
+    "price": 2999.0
+  },
+  {
+    "name": "Chhota Bheem Puzzle",
+    "description": "Colorful puzzle for kids",
+    "category": "Toys & Games",
+    "price": 299.0
+  },
+  {
+    "name": "Paw Patrol Lookout Tower",
+    "description": "Buildable lookout tower model",
+    "category": "Toys & Games",
+    "price": 3999.0
+  },
+  {
+    "name": "Fisher-Price Little People",
+    "description": "Collectible little people figures",
+    "category": "Toys & Games",
+    "price": 999.0
+  },
+  {
+    "name": "Marvel Spider-Man Action Figure",
+    "description": "Collectible action figure of Spider-Man",
+    "category": "Toys & Games",
+    "price": 499.0
+  },
+  {
+    "name": "Disney Cars Die-Cast Car",
+    "description": "Die-cast car model of Disney Cars",
+    "category": "Toys & Games",
+    "price": 399.0
+  },
+  {
+    "name": "Lego City Fire Truck",
+    "description": "Buildable fire truck model",
+    "category": "Toys & Games",
+    "price": 2999.0
+  },
+  {
+    "name": "Vtech Kidizoom Camera",
+    "description": "Interactive camera for kids",
+    "category": "Toys & Games",
+    "price": 2999.0
+  },
+  {
+    "name": "Barbie Career Line",
+    "description": "Career-themed doll with accessories",
+    "category": "Toys & Games",
+    "price": 1499.0
+  },
+  {
+    "name": "Mega Bloks First Builders",
+    "description": "Large building blocks for kids",
+    "category": "Toys & Games",
+    "price": 1999.0
+  },
+  {
+    "name": "Havells RC Helicopter",
+    "description": "Remote control helicopter for kids",
+    "category": "Toys & Games",
+    "price": 4999.0
+  },
+  {
+    "name": "Lego Creator Expert",
+    "description": "Buildable expert model for adults",
+    "category": "Toys & Games",
+    "price": 9999.0
+  },
+  {
+    "name": "Funskool Brain Teaser",
+    "description": "Challenging brain teaser puzzle",
+    "category": "Toys & Games",
+    "price": 499.0
+  },
+  {
+    "name": "Nerf Rival Blaster",
+    "description": "High-powered blaster for kids",
+    "category": "Toys & Games",
+    "price": 2999.0
+  },
+  {
+    "name": "Play-Doh Factory",
+    "description": "Creative factory for making play-doh",
+    "category": "Toys & Games",
+    "price": 1999.0
+  },
+  {
+    "name": "Lego Star Wars Death Star",
+    "description": "Buildable Death Star model",
+    "category": "Toys & Games",
+    "price": 9999.0
+  },
+  {
+    "name": "Fisher-Price Power Wheels",
+    "description": "Ride-on vehicle for kids",
+    "category": "Toys & Games",
+    "price": 6999.0
+  },
+  {
+    "name": "Penguin Random House To Kill a Mockingbird",
+    "description": "Classic fiction novel by Harper Lee",
+    "category": "Books",
+    "price": 499.0
+  },
+  {
+    "name": "Arihant General Knowledge 2022",
+    "description": "Comprehensive guide for competitive exams",
+    "category": "Books",
+    "price": 299.0
+  },
+  {
+    "name": "Amazon Publishing The 4-Hour Work Week",
+    "description": "Self-help book by Timothy Ferriss",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "HarperCollins The Alchemist",
+    "description": "Fable by Paulo Coelho",
+    "category": "Books",
+    "price": 399.0
+  },
+  {
+    "name": "McGraw Hill Engineering Mathematics",
+    "description": "Reference book for engineering students",
+    "category": "Books",
+    "price": 1299.0
+  },
+  {
+    "name": "Rupa Publications The Immortals of Meluha",
+    "description": "Mythological fiction by Amish Tripathi",
+    "category": "Books",
+    "price": 499.0
+  },
+  {
+    "name": "Hachette India The Girl on the Train",
+    "description": "Psychological thriller by Paula Hawkins",
+    "category": "Books",
+    "price": 599.0
+  },
+  {
+    "name": "Pearson Education Quantum Physics",
+    "description": "Textbook for physics students",
+    "category": "Books",
+    "price": 999.0
+  },
+  {
+    "name": "Westland Books The Shiva Trilogy",
+    "description": "Mythological fiction by Amish Tripathi",
+    "category": "Books",
+    "price": 799.0
+  },
+  {
+    "name": "Oxford University Press English Grammar",
+    "description": "Reference book for language learners",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "Bloomsbury India The White Tiger",
+    "description": "Literary fiction by Aravind Adiga",
+    "category": "Books",
+    "price": 499.0
+  },
+  {
+    "name": "Tata McGraw Hill Data Structures",
+    "description": "Computer science textbook",
+    "category": "Books",
+    "price": 899.0
+  },
+  {
+    "name": "Random House India The 5 AM Club",
+    "description": "Self-help book by Robin Sharma",
+    "category": "Books",
+    "price": 799.0
+  },
+  {
+    "name": "Penguin India The Namesake",
+    "description": "Literary fiction by Jhumpa Lahiri",
+    "category": "Books",
+    "price": 599.0
+  },
+  {
+    "name": "Sage Publications Research Methods",
+    "description": "Textbook for research students",
+    "category": "Books",
+    "price": 1099.0
+  },
+  {
+    "name": "HarperCollins India The Power of Now",
+    "description": "Spiritual self-help book by Eckhart Tolle",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "Rupa Publications Chanakya Neeti",
+    "description": "Ancient Indian philosophy book",
+    "category": "Books",
+    "price": 299.0
+  },
+  {
+    "name": "Hachette Book Group The Nightingale",
+    "description": "Historical fiction by Kristin Hannah",
+    "category": "Books",
+    "price": 899.0
+  },
+  {
+    "name": "Pearson Education Financial Management",
+    "description": "MBA textbook",
+    "category": "Books",
+    "price": 1299.0
+  },
+  {
+    "name": "Amazon Publishing The 7 Habits of Highly Effective People",
+    "description": "Self-help book by Stephen Covey",
+    "category": "Books",
+    "price": 999.0
+  },
+  {
+    "name": "Oxford University Press Organic Chemistry",
+    "description": "Textbook for chemistry students",
+    "category": "Books",
+    "price": 1499.0
+  },
+  {
+    "name": "Westland Books The India Story",
+    "description": "Non-fiction book by Sanjeev Sanyal",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "Tata McGraw Hill Computer Networks",
+    "description": "Computer science textbook",
+    "category": "Books",
+    "price": 1099.0
+  },
+  {
+    "name": "Random House India The Monk Who Sold His Ferrari",
+    "description": "Self-help book by Robin Sharma",
+    "category": "Books",
+    "price": 599.0
+  },
+  {
+    "name": "Penguin Random House The Kite Runner",
+    "description": "Literary fiction by Khaled Hosseini",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "Sage Publications Marketing Management",
+    "description": "MBA textbook",
+    "category": "Books",
+    "price": 1399.0
+  },
+  {
+    "name": "HarperCollins India The Hitchhiker's Guide to the Galaxy",
+    "description": "Science fiction comedy by Douglas Adams",
+    "category": "Books",
+    "price": 799.0
+  },
+  {
+    "name": "Rupa Publications Bhagavad Gita",
+    "description": "Ancient Indian scripture",
+    "category": "Books",
+    "price": 399.0
+  },
+  {
+    "name": "Hachette India The Da Vinci Code",
+    "description": "Thriller novel by Dan Brown",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "Pearson Education Electronic Devices",
+    "description": "Textbook for engineering students",
+    "category": "Books",
+    "price": 999.0
+  },
+  {
+    "name": "Amazon Publishing The Intelligent Investor",
+    "description": "Investing book by Benjamin Graham",
+    "category": "Books",
+    "price": 999.0
+  },
+  {
+    "name": "Oxford University Press Business Economics",
+    "description": "Textbook for economics students",
+    "category": "Books",
+    "price": 899.0
+  },
+  {
+    "name": "Westland Books The Story of My Experiments with Truth",
+    "description": "Autobiography by Mahatma Gandhi",
+    "category": "Books",
+    "price": 699.0
+  },
+  {
+    "name": "Tata McGraw Hill Operations Research",
+    "description": "Management textbook",
+    "category": "Books",
+    "price": 1299.0
+  },
+  {
+    "name": "Random House India The Secret",
+    "description": "Self-help book by Rhonda Byrne",
+    "category": "Books",
+    "price": 599.0
+  },
+  {
+    "name": "Penguin India The God of Small Things",
+    "description": "Literary fiction by Arundhati Roy",
+    "category": "Books",
+    "price": 499.0
+  },
+  {
+    "name": "Sage Publications Human Resource Management",
+    "description": "MBA textbook",
+    "category": "Books",
+    "price": 1499.0
+  },
+  {
+    "name": "HarperCollins India The Catcher in the Rye",
+    "description": "Classic coming-of-age novel by J.D. Salinger",
+    "category": "Books",
+    "price": 499.0
+  },
+  {
+    "name": "Rupa Publications The Art of Living",
+    "description": "Spiritual self-help book by Sri Sri Ravi Shankar",
+    "category": "Books",
+    "price": 399.0
+  },
+  {
+    "name": "Prestige Omega Deluxe Gas Stove",
+    "description": "3 Burner Gas Stove with Auto Ignition",
+    "category": "Home & Kitchen",
+    "price": 9999.0
+  },
+  {
+    "name": "Philips Air Fryer Avance XXL",
+    "description": "Digital Air Fryer with Rapid Air Tech",
+    "category": "Home & Kitchen",
+    "price": 14999.0
+  },
+  {
+    "name": "Borosil Glass Bowl Set",
+    "description": "Set of 6 Microwave Safe Glass Bowls",
+    "category": "Home & Kitchen",
+    "price": 999.0
+  },
+  {
+    "name": "Havells Monaco Ceiling Fan",
+    "description": "Energy Efficient 3 Blade Ceiling Fan",
+    "category": "Home & Kitchen",
+    "price": 1999.0
+  },
+  {
+    "name": "AmazonBasics Stainless Steel Cutlery Set",
+    "description": "18 Piece Stainless Steel Cutlery Set",
+    "category": "Home & Kitchen",
+    "price": 799.0
+  },
+  {
+    "name": "Eureka Forbes AquaGuard Water Purifier",
+    "description": "RO+UV Water Purifier with TDS Controller",
+    "category": "Home & Kitchen",
+    "price": 12999.0
+  },
+  {
+    "name": "Bajaj Rex Mixer Grinder",
+    "description": "500W Mixer Grinder with 3 Jars",
+    "category": "Home & Kitchen",
+    "price": 2499.0
+  },
+  {
+    "name": "IKEA KLIPPAN Sofa Cover",
+    "description": "Waterproof Sofa Cover with Elastic Fit",
+    "category": "Home & Kitchen",
+    "price": 499.0
+  },
+  {
+    "name": "Kent 16023 7L Water Heater",
+    "description": "Instant Electric Water Heater with Thermostat",
+    "category": "Home & Kitchen",
+    "price": 5999.0
+  },
+  {
+    "name": "Usha Striker Neptune Ceiling Fan",
+    "description": "High Speed 4 Blade Ceiling Fan",
+    "category": "Home & Kitchen",
+    "price": 2499.0
+  },
+  {
+    "name": "Crompton Greaves Solarium LED Light",
+    "description": "Energy Efficient LED Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 999.0
+  },
+  {
+    "name": "FabFurnish Wooden Coffee Table",
+    "description": "Engineered Wood Coffee Table with Storage",
+    "category": "Home & Kitchen",
+    "price": 6999.0
+  },
+  {
+    "name": "Milton Thermosteel Water Bottle",
+    "description": "Insulated Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 499.0
+  },
+  {
+    "name": "Godrej RD 5GM 50D 5.0 Ton AC",
+    "description": "Inverter Split Air Conditioner with Wi-Fi",
+    "category": "Home & Kitchen",
+    "price": 43999.0
+  },
+  {
+    "name": "Wonderchef Nutri Blend Mixer Grinder",
+    "description": "2 in 1 Mixer Grinder with 4 Jars",
+    "category": "Home & Kitchen",
+    "price": 3499.0
+  },
+  {
+    "name": "Pigeon Favourite Non-Stick Cookware Set",
+    "description": "3 Piece Non-Stick Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 1999.0
+  },
+  {
+    "name": "V-Guard VJ 400 15L Water Heater",
+    "description": "Instant Electric Water Heater with Thermostat",
+    "category": "Home & Kitchen",
+    "price": 6999.0
+  },
+  {
+    "name": "Luminous Zelio 1100 Inverter",
+    "description": "Pure Sine Wave Inverter with 2 Years Warranty",
+    "category": "Home & Kitchen",
+    "price": 9999.0
+  },
+  {
+    "name": "Bajaj Majesty DX 11 1000W Microwave",
+    "description": "Solo Microwave Oven with 10 Power Levels",
+    "category": "Home & Kitchen",
+    "price": 5999.0
+  },
+  {
+    "name": "Hindware Atlantic 55cm Wall Mount Chimney",
+    "description": "Auto Clean Wall Mount Kitchen Chimney",
+    "category": "Home & Kitchen",
+    "price": 9999.0
+  },
+  {
+    "name": "Panasonic NN-GT35H 23L Convection Microwave",
+    "description": "Convection Microwave Oven with 10 Power Levels",
+    "category": "Home & Kitchen",
+    "price": 9999.0
+  },
+  {
+    "name": "Crompton Greaves 15L Instant Water Heater",
+    "description": "Instant Electric Water Heater with Thermostat",
+    "category": "Home & Kitchen",
+    "price": 4999.0
+  },
+  {
+    "name": "Prestige PKGSS 20 2000W Gas Stove",
+    "description": "2 Burner Gas Stove with Auto Ignition",
+    "category": "Home & Kitchen",
+    "price": 6999.0
+  },
+  {
+    "name": "Lloyd 1.5 Ton 3 Star Split AC",
+    "description": "Inverter Split Air Conditioner with Wi-Fi",
+    "category": "Home & Kitchen",
+    "price": 34999.0
+  },
+  {
+    "name": "Usha Iron 3620 1000W Steam Iron",
+    "description": "Steam Iron with Non-Stick Soleplate",
+    "category": "Home & Kitchen",
+    "price": 1299.0
+  },
+  {
+    "name": "Borosil Primus Vacuum Insulated Bottle",
+    "description": "Insulated Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 699.0
+  },
+  {
+    "name": "Prestige PKGSS 15 1500W Gas Stove",
+    "description": "2 Burner Gas Stove with Auto Ignition",
+    "category": "Home & Kitchen",
+    "price": 5999.0
+  },
+  {
+    "name": "Philips HD2582/00 2400W Coffee Maker",
+    "description": "Drip Coffee Maker with 1.2L Carafe",
+    "category": "Home & Kitchen",
+    "price": 6999.0
+  },
+  {
+    "name": "Godrej 26L Convection Microwave",
+    "description": "Convection Microwave Oven with 10 Power Levels",
+    "category": "Home & Kitchen",
+    "price": 8999.0
+  },
+  {
+    "name": "Crompton V-Flow 24L Water Purifier",
+    "description": "RO+UV Water Purifier with TDS Controller",
+    "category": "Home & Kitchen",
+    "price": 10999.0
+  },
+  {
+    "name": "Usha Striker 2000 1000W Mixer Grinder",
+    "description": "Mixer Grinder with 3 Jars",
+    "category": "Home & Kitchen",
+    "price": 1999.0
+  },
+  {
+    "name": "Faber 90cm 1200m3/h Chimney",
+    "description": "Auto Clean Wall Mount Kitchen Chimney",
+    "category": "Home & Kitchen",
+    "price": 7999.0
+  },
+  {
+    "name": "Bajaj LEDGLOW 24W LED Bulb",
+    "description": "Energy Efficient LED Bulb with 2 Years Warranty",
+    "category": "Home & Kitchen",
+    "price": 299.0
+  },
+  {
+    "name": "Milton Pearl Non-Stick Cookware Set",
+    "description": "3 Piece Non-Stick Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 1499.0
+  },
+  {
+    "name": "IFB 25L Convection Microwave",
+    "description": "Convection Microwave Oven with 10 Power Levels",
+    "category": "Home & Kitchen",
+    "price": 9999.0
+  },
+  {
+    "name": "Kent 20L Water Purifier",
+    "description": "RO+UV Water Purifier with TDS Controller",
+    "category": "Home & Kitchen",
+    "price": 9999.0
+  },
+  {
+    "name": "Hindware Atlantic 60cm Wall Mount Chimney",
+    "description": "Auto Clean Wall Mount Kitchen Chimney",
+    "category": "Home & Kitchen",
+    "price": 11999.0
+  },
+  {
+    "name": "Crompton Greaves 20L Instant Water Heater",
+    "description": "Instant Electric Water Heater with Thermostat",
+    "category": "Home & Kitchen",
+    "price": 6999.0
+  },
+  {
+    "name": "Nike Air Zoom Pegasus",
+    "description": "Men's running shoes for speed training",
+    "category": "Sports & Fitness",
+    "price": 10499.0
+  },
+  {
+    "name": "Reebok Classic Leather",
+    "description": "Unisex cross-trainer shoes for gym workout",
+    "category": "Sports & Fitness",
+    "price": 5999.0
+  },
+  {
+    "name": "Puma One 1 FG",
+    "description": "Men's football boots for artificial turf",
+    "category": "Sports & Fitness",
+    "price": 8999.0
+  },
+  {
+    "name": "Adidas Ultraboost 22",
+    "description": "Men's running shoes for long distance",
+    "category": "Sports & Fitness",
+    "price": 15999.0
+  },
+  {
+    "name": "Soulfit Yoga Mat",
+    "description": "Eco-friendly yoga mat for home workout",
+    "category": "Sports & Fitness",
+    "price": 999.0
+  },
+  {
+    "name": "HRX Resistance Band",
+    "description": "Portable resistance band for strength training",
+    "category": "Sports & Fitness",
+    "price": 499.0
+  },
+  {
+    "name": "Nike Pro Shorts",
+    "description": "Men's running shorts for performance training",
+    "category": "Sports & Fitness",
+    "price": 1999.0
+  },
+  {
+    "name": "Bata Flexi Running Shoes",
+    "description": "Men's running shoes for casual jogging",
+    "category": "Sports & Fitness",
+    "price": 2999.0
+  },
+  {
+    "name": "Puma F1 Racing Gloves",
+    "description": "Unisex racing gloves for cycling",
+    "category": "Sports & Fitness",
+    "price": 1499.0
+  },
+  {
+    "name": "Reebok ZR9 Treadmill",
+    "description": "Folding treadmill for home workout",
+    "category": "Sports & Fitness",
+    "price": 59999.0
+  },
+  {
+    "name": "Adidas Powerlift Shoes",
+    "description": "Men's weightlifting shoes for strength training",
+    "category": "Sports & Fitness",
+    "price": 6999.0
+  },
+  {
+    "name": "Kobo Fitness Tracker",
+    "description": "Waterproof fitness tracker for daily activity",
+    "category": "Sports & Fitness",
+    "price": 2999.0
+  },
+  {
+    "name": "Skullcandy Smokin' Buds",
+    "description": "Wireless earbuds for workout music",
+    "category": "Sports & Fitness",
+    "price": 3999.0
+  },
+  {
+    "name": "Cosco Badminton Kit",
+    "description": "Complete badminton set for beginners",
+    "category": "Sports & Fitness",
+    "price": 1999.0
+  },
+  {
+    "name": "Yonex Voltric Badminton Racket",
+    "description": "Professional badminton racket for tournament play",
+    "category": "Sports & Fitness",
+    "price": 12999.0
+  },
+  {
+    "name": "Nivia Football",
+    "description": "Official size football for tournament play",
+    "category": "Sports & Fitness",
+    "price": 999.0
+  },
+  {
+    "name": "Li-Ning Wade All City Basketball",
+    "description": "Men's basketball shoes for outdoor play",
+    "category": "Sports & Fitness",
+    "price": 8999.0
+  },
+  {
+    "name": "HRX Gym Bag",
+    "description": "Waterproof gym bag for daily use",
+    "category": "Sports & Fitness",
+    "price": 999.0
+  },
+  {
+    "name": "Nike Vapor Untouchable Football Cleats",
+    "description": "Men's football cleats for artificial turf",
+    "category": "Sports & Fitness",
+    "price": 10999.0
+  },
+  {
+    "name": "Lotto Solista Running Shoes",
+    "description": "Men's running shoes for long distance",
+    "category": "Sports & Fitness",
+    "price": 6999.0
+  },
+  {
+    "name": "Suzuki Cycling Helmet",
+    "description": "Safety helmet for road cycling",
+    "category": "Sports & Fitness",
+    "price": 2499.0
+  },
+  {
+    "name": "Reebok ZR8 Cross Trainer",
+    "description": "Home use cross trainer for full-body workout",
+    "category": "Sports & Fitness",
+    "price": 49999.0
+  },
+  {
+    "name": "Puma Ferrari Drift Cat",
+    "description": "Men's casual shoes for everyday wear",
+    "category": "Sports & Fitness",
+    "price": 7999.0
+  },
+  {
+    "name": "Adidas Climalite Socks",
+    "description": "Moisture-wicking socks for performance training",
+    "category": "Sports & Fitness",
+    "price": 599.0
+  },
+  {
+    "name": "Nike Flex Trainer",
+    "description": "Men's training shoes for cross-training",
+    "category": "Sports & Fitness",
+    "price": 7999.0
+  },
+  {
+    "name": "Kettler Home Gym",
+    "description": "Multi-station home gym for full-body workout",
+    "category": "Sports & Fitness",
+    "price": 99999.0
+  },
+  {
+    "name": "Babolat Pure Strike Tennis Racket",
+    "description": "Professional tennis racket for tournament play",
+    "category": "Sports & Fitness",
+    "price": 14999.0
+  },
+  {
+    "name": "Skullcandy Method Wireless Earbuds",
+    "description": "Sweat-resistant earbuds for workout music",
+    "category": "Sports & Fitness",
+    "price": 4999.0
+  },
+  {
+    "name": "Yonex Astrox Badminton Racket",
+    "description": "Professional badminton racket for tournament play",
+    "category": "Sports & Fitness",
+    "price": 9999.0
+  },
+  {
+    "name": "Nivia Table Tennis Table",
+    "description": "Folding table tennis table for home use",
+    "category": "Sports & Fitness",
+    "price": 19999.0
+  },
+  {
+    "name": "Li-Ning Basketball",
+    "description": "Official size basketball for tournament play",
+    "category": "Sports & Fitness",
+    "price": 1499.0
+  },
+  {
+    "name": "HRX Fitness Tracker",
+    "description": "Waterproof fitness tracker with heart rate monitoring",
+    "category": "Sports & Fitness",
+    "price": 4999.0
+  },
+  {
+    "name": "Puma Ignite Netfit",
+    "description": "Men's running shoes for speed training",
+    "category": "Sports & Fitness",
+    "price": 11999.0
+  },
+  {
+    "name": "Adidas Superstar",
+    "description": "Unisex basketball shoes for casual wear",
+    "category": "Sports & Fitness",
+    "price": 6999.0
+  },
+  {
+    "name": "Reebok Lifter",
+    "description": "Men's weightlifting shoes for strength training",
+    "category": "Sports & Fitness",
+    "price": 5999.0
+  },
+  {
+    "name": "Nike Air Monarch",
+    "description": "Men's training shoes for cross-training",
+    "category": "Sports & Fitness",
+    "price": 6999.0
+  },
+  {
+    "name": "Kobo Smartwatch",
+    "description": "GPS smartwatch for fitness tracking",
+    "category": "Sports & Fitness",
+    "price": 9999.0
+  },
+  {
+    "name": "Bata Sandal",
+    "description": "Unisex sports sandal for casual wear",
+    "category": "Sports & Fitness",
+    "price": 1999.0
+  },
+  {
+    "name": "Soulfit Jump Rope",
+    "description": "Adjustable jump rope for cardio workout",
+    "category": "Sports & Fitness",
+    "price": 499.0
+  },
+  {
+    "name": "Yonex Nanoray Badminton Racket",
+    "description": "Professional badminton racket for tournament play",
+    "category": "Sports & Fitness",
+    "price": 13999.0
+  },
+  {
+    "name": "Li-Ning Running Shoes",
+    "description": "Men's running shoes for long distance",
+    "category": "Sports & Fitness",
+    "price": 8999.0
+  },
+  {
+    "name": "Levi's 511 Slim Fit Jeans",
+    "description": "Dark blue slim fit jeans for men",
+    "category": "Fashion",
+    "price": 2999.0
+  },
+  {
+    "name": "Van Heusen Slim Fit Shirt",
+    "description": "White slim fit formal shirt for men",
+    "category": "Fashion",
+    "price": 1299.0
+  },
+  {
+    "name": "Raymond Tuxedo Suit",
+    "description": "Black peak lapel tuxedo suit for men",
+    "category": "Fashion",
+    "price": 6999.0
+  },
+  {
+    "name": "Biba Anarkali Kurti",
+    "description": "Embroidered anarkali kurti for women",
+    "category": "Fashion",
+    "price": 999.0
+  },
+  {
+    "name": "Nike Air Max Sneakers",
+    "description": "Black and white air max sneakers for men",
+    "category": "Fashion",
+    "price": 7999.0
+  },
+  {
+    "name": "FabAlley Bodycon Dress",
+    "description": "Red bodycon dress for women",
+    "category": "Fashion",
+    "price": 1499.0
+  },
+  {
+    "name": "Puma Hooded Jacket",
+    "description": "Navy blue hooded jacket for men",
+    "category": "Fashion",
+    "price": 3499.0
+  },
+  {
+    "name": "Zara Embellished Top",
+    "description": "Sequined embellished top for women",
+    "category": "Fashion",
+    "price": 1999.0
+  },
+  {
+    "name": "Adidas Superstar Shoes",
+    "description": "White superstar shoes for men",
+    "category": "Fashion",
+    "price": 6499.0
+  },
+  {
+    "name": "WROGN Graphic T-Shirt",
+    "description": "Black graphic t-shirt for men",
+    "category": "Fashion",
+    "price": 799.0
+  },
+  {
+    "name": "Louis Philippe Formal Shirt",
+    "description": "Light blue formal shirt for men",
+    "category": "Fashion",
+    "price": 1799.0
+  },
+  {
+    "name": "H&M Denim Jacket",
+    "description": "Blue denim jacket for men",
+    "category": "Fashion",
+    "price": 2999.0
+  },
+  {
+    "name": "Allen Solly Polo T-Shirt",
+    "description": "Navy blue polo t-shirt for men",
+    "category": "Fashion",
+    "price": 999.0
+  },
+  {
+    "name": "Vero Moda Maxi Dress",
+    "description": "Floral maxi dress for women",
+    "category": "Fashion",
+    "price": 1999.0
+  },
+  {
+    "name": "Reebok Classic Sneakers",
+    "description": "White classic sneakers for men",
+    "category": "Fashion",
+    "price": 3999.0
+  },
+  {
+    "name": "Only Crop Top",
+    "description": "Black crop top for women",
+    "category": "Fashion",
+    "price": 499.0
+  },
+  {
+    "name": "USPA Polo T-Shirt",
+    "description": "Grey polo t-shirt for men",
+    "category": "Fashion",
+    "price": 1299.0
+  },
+  {
+    "name": "Pepe Jeans Slim Fit Jeans",
+    "description": "Dark blue slim fit jeans for men",
+    "category": "Fashion",
+    "price": 2499.0
+  },
+  {
+    "name": "Catwalk Sandals",
+    "description": "Brown sandals for women",
+    "category": "Fashion",
+    "price": 999.0
+  },
+  {
+    "name": "Tommy Hilfiger T-Shirt",
+    "description": "White t-shirt for men",
+    "category": "Fashion",
+    "price": 1499.0
+  },
+  {
+    "name": "Aurelia Kurti",
+    "description": "Embroidered kurti for women",
+    "category": "Fashion",
+    "price": 799.0
+  },
+  {
+    "name": "Converse Chuck Taylor Sneakers",
+    "description": "Black chuck taylor sneakers for men",
+    "category": "Fashion",
+    "price": 3999.0
+  },
+  {
+    "name": "Global Desi Dress",
+    "description": "Printed dress for women",
+    "category": "Fashion",
+    "price": 1299.0
+  },
+  {
+    "name": "Woodland Boots",
+    "description": "Brown boots for men",
+    "category": "Fashion",
+    "price": 4999.0
+  },
+  {
+    "name": "Kazo Evening Gown",
+    "description": "Sequined evening gown for women",
+    "category": "Fashion",
+    "price": 2999.0
+  },
+  {
+    "name": "Peter England Shirt",
+    "description": "Light blue formal shirt for men",
+    "category": "Fashion",
+    "price": 999.0
+  },
+  {
+    "name": "Skechers Sneakers",
+    "description": "Black sneakers for men",
+    "category": "Fashion",
+    "price": 4999.0
+  },
+  {
+    "name": "Bata Loafers",
+    "description": "Brown loafers for men",
+    "category": "Fashion",
+    "price": 1999.0
+  },
+  {
+    "name": "Wrangler Jeans",
+    "description": "Dark blue jeans for men",
+    "category": "Fashion",
+    "price": 1999.0
+  },
+  {
+    "name": "Lacoste Polo T-Shirt",
+    "description": "White polo t-shirt for men",
+    "category": "Fashion",
+    "price": 2499.0
+  },
+  {
+    "name": "Dorothy Perkins Dress",
+    "description": "Floral dress for women",
+    "category": "Fashion",
+    "price": 1999.0
+  },
+  {
+    "name": "Redtape Shoes",
+    "description": "Black formal shoes for men",
+    "category": "Fashion",
+    "price": 2999.0
+  },
+  {
+    "name": "Benetton T-Shirt",
+    "description": "White t-shirt for men",
+    "category": "Fashion",
+    "price": 999.0
+  },
+  {
+    "name": "Jockey Innerwear",
+    "description": "Black innerwear for men",
+    "category": "Fashion",
+    "price": 499.0
+  },
+  {
+    "name": "Fila Sneakers",
+    "description": "White sneakers for men",
+    "category": "Fashion",
+    "price": 3499.0
+  },
+  {
+    "name": "Vans Sneakers",
+    "description": "Black sneakers for men",
+    "category": "Fashion",
+    "price": 3999.0
+  },
+  {
+    "name": "Arrow Shirt",
+    "description": "Light blue formal shirt for men",
+    "category": "Fashion",
+    "price": 1299.0
+  },
+  {
+    "name": "Gant T-Shirt",
+    "description": "White t-shirt for men",
+    "category": "Fashion",
+    "price": 1999.0
+  },
+  {
+    "name": "Lee Jeans",
+    "description": "Dark blue jeans for men",
+    "category": "Fashion",
+    "price": 2499.0
+  },
+  {
+    "name": "Steve Madden Heels",
+    "description": "Black heels for women",
+    "category": "Fashion",
+    "price": 2999.0
+  },
+  {
+    "name": "Lakme Face Wash",
+    "description": "Gentle cleansing face wash for all skin types",
+    "category": "Beauty & Health",
+    "price": 99.0
+  },
+  {
+    "name": "Nivea Soft Moisturizer",
+    "description": "Rich moisturizing cream for dry skin",
+    "category": "Beauty & Health",
+    "price": 249.0
+  },
+  {
+    "name": "Maybelline Kajal",
+    "description": "Waterproof kajal for smudge proof eyes",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Dove Shampoo",
+    "description": "Nourishing shampoo for dry and damaged hair",
+    "category": "Beauty & Health",
+    "price": 299.0
+  },
+  {
+    "name": "Himalaya Neem Face Pack",
+    "description": "Purifying face pack for acne prone skin",
+    "category": "Beauty & Health",
+    "price": 149.0
+  },
+  {
+    "name": "Loreal Paris Hair Serum",
+    "description": "Intensive nourishing serum for dry hair",
+    "category": "Beauty & Health",
+    "price": 599.0
+  },
+  {
+    "name": "Ponds Moisturizing Cream",
+    "description": "Hydrating moisturizing cream for dry skin",
+    "category": "Beauty & Health",
+    "price": 349.0
+  },
+  {
+    "name": "Garnier Face Mask",
+    "description": "Charcoal face mask for detoxified skin",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Oriflame Lip Balm",
+    "description": "Nourishing lip balm for dry lips",
+    "category": "Beauty & Health",
+    "price": 99.0
+  },
+  {
+    "name": "Vaseline Body Lotion",
+    "description": "Rich moisturizing body lotion for dry skin",
+    "category": "Beauty & Health",
+    "price": 299.0
+  },
+  {
+    "name": "Biotique Face Wash",
+    "description": "Ayurvedic face wash for all skin types",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Revlon Nail Polish",
+    "description": "Long lasting nail polish for vibrant nails",
+    "category": "Beauty & Health",
+    "price": 249.0
+  },
+  {
+    "name": "Neutrogena Sunscreen",
+    "description": "Broad spectrum sunscreen for daily protection",
+    "category": "Beauty & Health",
+    "price": 499.0
+  },
+  {
+    "name": "Aloe Veda Face Cream",
+    "description": "Nourishing face cream for sensitive skin",
+    "category": "Beauty & Health",
+    "price": 399.0
+  },
+  {
+    "name": " VLCC Face Wash",
+    "description": "Exfoliating face wash for glowing skin",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Estee Lauder Foundation",
+    "description": "Long lasting foundation for flawless skin",
+    "category": "Beauty & Health",
+    "price": 1999.0
+  },
+  {
+    "name": "Kaya Skin Clinic Face Cream",
+    "description": "Intensive nourishing face cream for dry skin",
+    "category": "Beauty & Health",
+    "price": 999.0
+  },
+  {
+    "name": "The Body Shop Body Butter",
+    "description": "Rich moisturizing body butter for dry skin",
+    "category": "Beauty & Health",
+    "price": 699.0
+  },
+  {
+    "name": "Lotus Herbals Face Wash",
+    "description": "Gentle face wash for all skin types",
+    "category": "Beauty & Health",
+    "price": 149.0
+  },
+  {
+    "name": "Forest Essentials Face Mask",
+    "description": "Ayurvedic face mask for glowing skin",
+    "category": "Beauty & Health",
+    "price": 899.0
+  },
+  {
+    "name": "Chanel Perfume",
+    "description": "Long lasting fragrance for women",
+    "category": "Beauty & Health",
+    "price": 4999.0
+  },
+  {
+    "name": "Himalaya Protein Shampoo",
+    "description": "Nourishing shampoo for damaged hair",
+    "category": "Beauty & Health",
+    "price": 249.0
+  },
+  {
+    "name": "Loreal Paris Hair Color",
+    "description": "Long lasting hair color for vibrant hair",
+    "category": "Beauty & Health",
+    "price": 599.0
+  },
+  {
+    "name": "Dabur Amla Hair Oil",
+    "description": "Nourishing hair oil for healthy hair",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Gillette Razor",
+    "description": "Smooth shaving razor for men",
+    "category": "Beauty & Health",
+    "price": 299.0
+  },
+  {
+    "name": "Nivea Deodorant",
+    "description": "Long lasting deodorant for men",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Pantene Shampoo",
+    "description": "Nourishing shampoo for dry hair",
+    "category": "Beauty & Health",
+    "price": 349.0
+  },
+  {
+    "name": "Lakme Lipstick",
+    "description": "Vibrant lipstick for long lasting color",
+    "category": "Beauty & Health",
+    "price": 399.0
+  },
+  {
+    "name": "Bath & Body Works Body Wash",
+    "description": "Moisturizing body wash for dry skin",
+    "category": "Beauty & Health",
+    "price": 499.0
+  },
+  {
+    "name": "Kerastase Hair Mask",
+    "description": "Intensive nourishing hair mask for damaged hair",
+    "category": "Beauty & Health",
+    "price": 999.0
+  },
+  {
+    "name": "Clarins Face Cream",
+    "description": "Anti aging face cream for wrinkles",
+    "category": "Beauty & Health",
+    "price": 1999.0
+  },
+  {
+    "name": "Jolen Face Bleach",
+    "description": "Gentle face bleach for sensitive skin",
+    "category": "Beauty & Health",
+    "price": 149.0
+  },
+  {
+    "name": "Wella Hair Color",
+    "description": "Long lasting hair color for professional results",
+    "category": "Beauty & Health",
+    "price": 699.0
+  },
+  {
+    "name": "Olay Regenerist Cream",
+    "description": "Anti aging cream for fine lines and wrinkles",
+    "category": "Beauty & Health",
+    "price": 999.0
+  },
+  {
+    "name": "Aroma Magic Face Wash",
+    "description": "Ayurvedic face wash for all skin types",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Loreal Paris Eye Cream",
+    "description": "Anti aging eye cream for dark circles",
+    "category": "Beauty & Health",
+    "price": 499.0
+  },
+  {
+    "name": "Dove Body Lotion",
+    "description": "Moisturizing body lotion for dry skin",
+    "category": "Beauty & Health",
+    "price": 299.0
+  },
+  {
+    "name": "The Face Shop Face Mask",
+    "description": "Korean face mask for glowing skin",
+    "category": "Beauty & Health",
+    "price": 299.0
+  },
+  {
+    "name": "Neutrogena Face Wash",
+    "description": "Gentle face wash for all skin types",
+    "category": "Beauty & Health",
+    "price": 199.0
+  },
+  {
+    "name": "Biotique Face Cream",
+    "description": "Ayurvedic face cream for dry skin",
+    "category": "Beauty & Health",
+    "price": 299.0
+  },
+  {
+    "name": "Aloevera Gel",
+    "description": "Soothing aloe vera gel for sunburn",
+    "category": "Beauty & Health",
+    "price": 99.0
+  }
+]

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartShop — AI Product Search</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+  <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
+  <%= javascript_importmap_tags %>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; min-height: 100vh; }
+    .header { background: linear-gradient(135deg, #e44d26, #f16529); padding: 20px 0; color: white; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
+    .header-inner { max-width: 1000px; margin: 0 auto; padding: 0 24px; }
+    .header h1 { font-size: 28px; font-weight: 800; }
+    .header p  { font-size: 14px; opacity: 0.85; margin-top: 4px; }
+    .search-section { background: white; padding: 24px; border-bottom: 1px solid #eee; }
+    .search-inner   { max-width: 1000px; margin: 0 auto; }
+    .search-box { display: flex; gap: 12px; }
+    .search-box input { flex: 1; padding: 14px 18px; font-size: 16px; border: 2px solid #ddd; border-radius: 8px; outline: none; transition: border-color 0.2s; }
+    .search-box input:focus { border-color: #e44d26; }
+    .search-box button { padding: 14px 28px; background: #e44d26; color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer; }
+    .search-box button:hover { background: #c0392b; }
+    .main { max-width: 1000px; margin: 24px auto; padding: 0 24px; display: grid; grid-template-columns: 220px 1fr; gap: 24px; }
+    .sidebar { background: white; border-radius: 10px; padding: 20px; height: fit-content; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+    .sidebar h3 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; color: #999; margin-bottom: 12px; }
+    .category-btn { display: block; width: 100%; text-align: left; padding: 8px 12px; margin-bottom: 4px; border: none; background: none; border-radius: 6px; cursor: pointer; font-size: 14px; color: #333; text-decoration: none; transition: background 0.15s; }
+    .category-btn:hover  { background: #fff0ec; color: #e44d26; }
+    .category-btn.active { background: #e44d26; color: white; }
+    .history-item { display: block; padding: 6px 12px; margin-bottom: 4px; font-size: 13px; color: #555; text-decoration: none; border-radius: 6px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .history-item:hover { background: #f5f5f5; color: #e44d26; }
+    .clear-history { font-size: 12px; color: #aaa; cursor: pointer; background: none; border: none; padding: 4px 12px; margin-top: 4px; }
+    .clear-history:hover { color: #e44d26; }
+    .sidebar-divider { border: none; border-top: 1px solid #eee; margin: 16px 0; }
+    .understanding { background: #fff8e1; border-left: 4px solid #ffc107; padding: 12px 16px; border-radius: 6px; margin-bottom: 20px; font-size: 14px; color: #555; }
+    .budget-banner { background: #e8f5e9; border-left: 4px solid #4caf50; padding: 12px 16px; border-radius: 6px; margin-bottom: 20px; font-size: 14px; color: #2e7d32; }
+    .product-card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; transition: box-shadow 0.2s; }
+    .product-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.12); }
+    .product-info { flex: 1; }
+    .product-name { font-size: 17px; font-weight: 700; color: #222; margin-bottom: 4px; }
+    .product-category { display: inline-block; background: #f0f0f0; color: #666; font-size: 12px; padding: 2px 8px; border-radius: 20px; margin-bottom: 8px; }
+    .relevance  { font-size: 13px; color: #e44d26; margin-top: 6px; font-style: italic; }
+    .price-note { font-size: 13px; color: #2e7d32; margin-top: 4px; font-weight: 500; }
+    .price-note.over { color: #f57c00; }
+    .product-price-block { text-align: right; min-width: 110px; }
+    .product-price { font-size: 22px; font-weight: 800; color: #2e7d32; }
+    .followup-section { background: white; border-radius: 10px; padding: 20px; margin-top: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+    .followup-section p { font-size: 14px; color: #666; margin-bottom: 12px; }
+    .followup-box { display: flex; gap: 10px; }
+    .followup-box input { flex: 1; padding: 10px 14px; font-size: 14px; border: 2px solid #ddd; border-radius: 6px; outline: none; }
+    .followup-box input:focus { border-color: #e44d26; }
+    .followup-box button { padding: 10px 20px; background: #333; color: white; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; }
+    .empty { text-align: center; padding: 60px 20px; color: #aaa; background: white; border-radius: 10px; }
+    .empty .icon { font-size: 48px; margin-bottom: 12px; }
+    .welcome { text-align: center; padding: 60px 20px; color: #aaa; background: white; border-radius: 10px; grid-column: 1 / -1; }
+    .welcome .icon { font-size: 56px; margin-bottom: 16px; }
+    .welcome h2 { color: #333; margin-bottom: 8px; }
+    .suggestions { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 16px; }
+    .suggestion { padding: 8px 16px; background: #fff0ec; color: #e44d26; border-radius: 20px; font-size: 13px; cursor: pointer; text-decoration: none; }
+    .suggestion:hover { background: #e44d26; color: white; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <div class="header-inner">
+      <h1>🛒 SmartShop</h1>
+      <p>AI-powered product search — search in plain English</p>
+    </div>
+  </div>
+
+  <div class="search-section">
+    <div class="search-inner">
+      <div data-controller="search"
+           data-live-search="<%= Rails.env.development? ? 'true' : 'false' %>">
+        <%= form_with url: search_path, method: :get, local: true do |f| %>
+          <div class="search-box">
+            <%= f.text_field :q,
+                  value: @query,
+                  placeholder: "e.g. gift for 5 year old under 2000 rupees...",
+                  autofocus: true,
+                  data: { search_target: "input", action: "input->search#search" } %>
+            <%= f.submit "🔍 Search" %>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="main">
+    <% if @results %>
+      <div class="sidebar">
+        <h3>Categories</h3>
+        <%= link_to "All Results", search_path(q: @query),
+              class: "category-btn #{params[:category].blank? ? 'active' : ''}" %>
+        <% ["Electronics", "Footwear", "Toys & Games",
+            "Books", "Home & Kitchen", "Sports & Fitness",
+            "Fashion", "Beauty & Health"].each do |cat| %>
+          <%= link_to cat, search_path(q: @query, category: cat),
+                class: "category-btn #{params[:category] == cat ? 'active' : ''}" %>
+        <% end %>
+
+        <% if @search_history.any? %>
+          <hr class="sidebar-divider">
+          <h3>Recent Searches</h3>
+          <% @search_history.each do |hist| %>
+            <%= link_to "🕐 #{hist}", search_path(q: hist),
+                  class: "history-item", title: hist %>
+          <% end %>
+          <%= button_to "Clear history", clear_search_history_path,
+                method: :delete, class: "clear-history",
+                form: { data: { turbo_confirm: false } } %>
+        <% end %>
+      </div>
+
+      <%= turbo_frame_tag "search_results" do %>
+        <div class="results">
+          <%= render partial: "search/results",
+                locals: { results: @results, query: @query, last_query: @last_query } %>
+        </div>
+      <% end %>
+
+    <% else %>
+      <div class="welcome">
+        <div class="icon">🛒</div>
+        <h2>Search anything in plain English</h2>
+        <p>Our AI understands what you mean, not just what you type</p>
+        <div class="suggestions">
+          <%= link_to "🎁 Gift for 5 year old under ₹2000",
+                search_path(q: "gift for 5 year old under 2000 rupees"),
+                class: "suggestion" %>
+          <%= link_to "👟 Running shoes for men",
+                search_path(q: "running shoes for men"),
+                class: "suggestion" %>
+          <%= link_to "💻 Laptop under ₹50000",
+                search_path(q: "laptop under 50000"),
+                class: "suggestion" %>
+          <%= link_to "📚 Self improvement books",
+                search_path(q: "good books for self improvement"),
+                class: "suggestion" %>
+          <%= link_to "🍳 Healthy cooking appliances",
+                search_path(q: "kitchen appliances for healthy cooking"),
+                class: "suggestion" %>
+        </div>
+
+        <% if @search_history&.any? %>
+          <hr style="margin: 24px auto; width: 200px; border-color: #eee;">
+          <p style="font-size: 13px; margin-bottom: 12px;">🕐 Recent searches</p>
+          <div class="suggestions">
+            <% @search_history.each do |hist| %>
+              <%= link_to hist, search_path(q: hist), class: "suggestion" %>
+            <% end %>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
+
+</body>
+</html>
